@@ -1,5 +1,5 @@
-Sr no.| Practicals
-----------------------------------------
+Sr no. | Practicals
+-------|-----------
 1| Print Hello World.
 2| To display the sum of two numbers.
 3| Calculate area of circle.
