@@ -1,8 +1,8 @@
 ## <p align="center" style="font-size:30px"><b>INDEX</b></p>
 
 
-Sr no. | Practicals | Date | Page No. | Sign |
--------|------------|------|----------|-----|
+Sr no. | Practicals | Date | Page No. | Sign 
+-------|------------|------|----------|-----
 1| Print Hello World.| | | 
 2| To display the sum of two numbers.| | | 
 3| Calculate area of circle.| | | 
