@@ -1,0 +1,5 @@
+l = input("Enter the list:").split()
+print(l[::-1])
+print(l[2:7:2])
+print(l[:-5])
+print(l[2:])
