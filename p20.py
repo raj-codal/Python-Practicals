@@ -1,0 +1,7 @@
+str1 = input("Enter Main String:")
+substring = input("Enter Substring:")
+i = int(input("Enter index:"))
+str2 = list(str1) 
+str2.insert(i, substring) 
+str2 = ''.join(str2)
+print(str2)
